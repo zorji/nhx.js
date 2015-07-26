@@ -1,0 +1,27 @@
+{
+  "name": "nhx.js",
+  "version": "0.0.2",
+  "authors": [
+    "Zorji <me@zorji.me>"
+  ],
+  "description": "JavaScript library for parsing the NHX/Newick format.",
+  "main": "src/nhx.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "newick",
+    "nhx",
+    "phylo",
+    "phylogenetic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

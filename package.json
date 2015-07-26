@@ -1,0 +1,25 @@
+{
+  "name": "nhx.js",
+  "version": "0.0.2",
+  "description": "JavaScript library for parsing the NHX/Newick format.",
+  "main": "src/nhx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zorji/nhx.js"
+  },
+  "keywords": [
+    "newick",
+    "nhx",
+    "phylo",
+    "phylogenetic"
+  ],
+  "author": "Zorji <me@zorji.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zorji/nhx.js/issues"
+  },
+  "homepage": "https://github.com/zorji/nhx.js"
+}
